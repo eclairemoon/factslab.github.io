@@ -30,7 +30,7 @@ Sid is a first-year PhD student in the [Department of Computer Science](https://
 </center>
 <center>Graduate Researcher</center>
 
-LaChelle is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in Linguistics from the University of Delaware in 2018.
+LaChelle is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in Linguistics from the University of Delaware in 2018.
 
 <center>
 <img class="people" alt="Ellise Moon" src="{{ page.images | relative_url }}ellise-moon.jpg" srcset="{{ page.images | relative_url }}ellise-moon.jpg" /></center>  
@@ -38,7 +38,7 @@ LaChelle is a second-year MA student in the [Department of Linguistics](http://w
 </center>
 <center>Graduate Researcher</center>
 
-Ellise is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in English Literature from Montana State University in 2018.
+Ellise is a second-year MA student in the [Department of Linguistics](http://www.sas.rochester.edu/lin/graduate/MS.html) at the [University of Rochester](https://www.rochester.edu/) pursuing an [MA in Linguistics](http://www.sas.rochester.edu/lin/graduate/master.html). She received her BA in English Literature from Montana State University in 2018.
 
 <center>
 <img class="people" alt="Boyu Zhang" src="{{ page.images | relative_url }}boyu-zhang.jpg" srcset="{{ page.images | relative_url }}boyu-zhang.jpg" /></center>  
@@ -46,7 +46,7 @@ Ellise is a second-year MA student in the [Department of Linguistics](http://www
 </center>
 <center>Undergraduate Researcher</center>
 
-Boyu is a third-year undergraduate student pursing a [BS in Computer Science](https://www.cs.rochester.edu/undergraduate/index.html) at the [University of Rochester](https://www.rochester.edu/).
+Boyu is a third-year undergraduate student pursuing a [BS in Computer Science](https://www.cs.rochester.edu/undergraduate/index.html) at the [University of Rochester](https://www.rochester.edu/).
 
 
 <center>
